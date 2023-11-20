@@ -7,6 +7,7 @@ namespace FirstApp
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("Varun MJ Here.....");
+            Console.ReadLine();
         }
     }
 }
