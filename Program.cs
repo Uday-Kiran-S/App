@@ -9,7 +9,6 @@ namespace FirstApp
             Console.WriteLine("Varun MJ Here.....");
             Console.WriteLine("Varun MJ Here.....");
             throw new Exception("Hello");
-            Console.ReadLine();
         }
     }
 }
